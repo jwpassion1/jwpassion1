@@ -1,7 +1,4 @@
-GET /api/v3/account/verify_credentials HTTP/1.1
-X-Solvedac-Language: ko
-Accept: application/json
-Host: solved.ac
+
 
 
 <!--
