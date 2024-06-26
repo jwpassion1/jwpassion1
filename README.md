@@ -1,7 +1,7 @@
-![](https://github-readme-stats.vercel.app/api?username=jwpassion1)
-
-
-dd
+GET /api/v3/account/verify_credentials HTTP/1.1
+X-Solvedac-Language: ko
+Accept: application/json
+Host: solved.ac
 
 
 <!--
